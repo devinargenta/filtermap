@@ -1,6 +1,6 @@
 "use strict";
 
-export.defulat = function filterMap(cb, fn) {
+export.default = function filterMap(cb, fn) {
   var leading = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : true;
   var a = [],
       arr = this;
