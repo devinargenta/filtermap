@@ -3,6 +3,10 @@
 adds .filterMap  to ur array prototype even tho u shouldnt /shrug
 
 
+to test
+npm install
+npm run test
+
 `[1,2,3,4].filterMap(callback, conditional, leading)`
 
 leading decides if the conditional should run before or after the callback
