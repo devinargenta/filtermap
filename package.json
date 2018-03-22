@@ -1,5 +1,5 @@
 {
-  "name": "filtermap",
+  "name": "@devin.argenta/filtermap",
   "version": "1.0.0",
   "description": "easily filter and map an array",
   "main": "index.js",
